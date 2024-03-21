@@ -1,0 +1,26 @@
+
+.rightAnswer{
+    border:solid green;
+    text-align: center;
+    margin:1em;
+    border-radius:22px;
+}
+.softContainer{
+    border: solid red;
+    /* height: ; */
+    margin: 1em;
+    width: 42vh;
+    padding: 20px;
+    
+
+}
+
+body{
+    background-color: aquamarine;
+    text-align: center;
+    
+
+   
+
+}
+
