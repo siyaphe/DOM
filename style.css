@@ -1,26 +1,20 @@
-
-.rightAnswer{
-    border:solid green;
-    text-align: center;
-    margin:1em;
-    border-radius:22px;
-}
-.softContainer{
-    border: solid red;
-    /* height: ; */
-    margin: 1em;
-    width: 42vh;
-    padding: 20px;
-    
-
-}
-
 body{
-    background-color: aquamarine;
-    text-align: center;
-    
-
-   
-
+    background-color: lightblue;
 }
-
+.funcContainer{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.robot{
+    width:50%;
+}
+.numContainer{
+    border:solid blue;
+    width:120px;
+    height:60px;
+    margin:1em;
+    font-size:22px;
+    text-align:center;
+    padding-top: 5%;;
+}
